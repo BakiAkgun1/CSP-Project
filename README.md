@@ -93,10 +93,10 @@ Based on experimental testing:
 | 7 | Hyper | GA | 3 | 5 | Genetic Algorithm | 0.02 |
 | 8 | Hyper | GA, HC, SA | 5 | 5 | Genetic Algorithm | 0.10 |
 
-#### Scenario 1
+### Scenario 1
 ![image](https://github.com/user-attachments/assets/19093c8b-78d2-40ea-a894-f747a25b63a2)
 
-#### Scenario 2
+### Scenario 2
 ![image](https://github.com/user-attachments/assets/49ae897a-503b-424b-9f2b-35c0863574c9)
 ...
 ### Key Findings
